@@ -1,0 +1,58 @@
+html {
+    font-size: 62.5%;
+    font-size: 1rem;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+    
+    
+}
+
+.pfp {
+    width: 15vw;
+    height: 30vh;
+    border-radius: 50%;
+}
+
+.aboutme {
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+    justify-content: center;
+    align-self: center;
+}
+
+.container1 {
+    height: 60vh;
+    width: 70vw ;
+    background-color: red;
+    border-radius: 25vh;
+}
+
+
+
+.linktree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50vh;
+    width: 100vw;
+    
+
+}
+
+.socials {
+    display: flex;
+    width: 75vw;
+    height:10vh;
+    background-color: rgb(235, 118, 118);
+    border-radius: 2rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
